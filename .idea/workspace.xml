@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7c1388d-0561-44bc-a945-31b4b35b8502" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uuy3MVVIJNvCcUk4KBEoZP1Hn3" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UsingExceptions">
+    <configuration name="ExceptionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CatchingExceptions.ExceptionA" />
+      <module name="Chapitre 11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.CatchingExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CatchingExceptions.ExceptionB" />
+      <module name="Chapitre 11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.CatchingExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CatchingExceptions.ExceptionC" />
+      <module name="Chapitre 11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.CatchingExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Chapitre 11" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsingExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CatchingExceptions.UsingExceptions" />
+      <module name="Chapitre 11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.CatchingExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.UsingExceptions" />
+      <item itemvalue="Application.ExceptionA" />
+      <item itemvalue="Application.ExceptionB" />
+      <item itemvalue="Application.ExceptionC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsingExceptions" />
+        <item itemvalue="Application.ExceptionC" />
+        <item itemvalue="Application.ExceptionB" />
+        <item itemvalue="Application.ExceptionA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c1388d-0561-44bc-a945-31b4b35b8502" name="Default Changelist" comment="" />
+      <created>1576220574104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576220574104</updated>
+    </task>
+    <servers />
+  </component>
+</project>
